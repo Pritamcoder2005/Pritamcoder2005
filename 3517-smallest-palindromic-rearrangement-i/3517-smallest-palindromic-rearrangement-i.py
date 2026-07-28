@@ -3,7 +3,8 @@ class Solution:
         s=list(s)
         length=len(s)
         half=length//2
-        s[:half]= sorted(s[:half])
+        s[:half]=sorted(s[:half])
         for i in range(half):
             s[length-1-i]=s[i]
-        return"".join(s)
+        return "".join(s)
+
