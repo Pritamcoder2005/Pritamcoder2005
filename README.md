@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0628-maximum-product-of-three-numbers) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -40,8 +41,18 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting Sort
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
