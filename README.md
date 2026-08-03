@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0001-two-sum) |
 | [0486-predict-the-winner](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0877-stone-game) |
@@ -61,6 +62,7 @@ Here are some ideas to get you started:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0001-two-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
