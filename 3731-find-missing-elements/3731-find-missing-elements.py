@@ -4,9 +4,8 @@ class Solution:
         ans=[]
         small=min(nums)
         large=max(nums)
-        for i in range(small, large+1):
+        for i in range(small,large+1):
             if i not in nums:
                 ans.append(i)
         return ans
-
        
