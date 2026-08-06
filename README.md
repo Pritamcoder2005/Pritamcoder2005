@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0088-merge-sorted-array) |
 | [0486-predict-the-winner](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0877-stone-game) |
@@ -40,6 +41,7 @@ Here are some ideas to get you started:
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -118,4 +120,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/3345-smallest-divisible-digit-product-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
