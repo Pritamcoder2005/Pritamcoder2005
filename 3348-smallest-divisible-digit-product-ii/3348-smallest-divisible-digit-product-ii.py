@@ -3,9 +3,7 @@ from functools import lru_cache
 class Solution:
     def smallestNumber(self, num: str, t: int) -> str:
 
-        # -------------------------------------------------
-        # 1. Factorize t
-        # -------------------------------------------------
+     
         need = [0, 0, 0, 0]   # factors of 2, 3, 5, 7
         primes = [2, 3, 5, 7]
 
@@ -18,9 +16,7 @@ class Solution:
         if t != 1:
             return "-1"
 
-        # -------------------------------------------------
-        # 2. Factor contribution of digits 1..9
-        # -------------------------------------------------
+        
         digit_factor = [(0, 0, 0, 0)] * 10
 
         for digit in range(1, 10):
@@ -34,10 +30,7 @@ class Solution:
 
             digit_factor[digit] = tuple(cnt)
 
-        # -------------------------------------------------
-        # 3. Minimum number of digits required
-        #    to satisfy a factor requirement
-        # -------------------------------------------------
+        
         @lru_cache(None)
         def min_digits(a, b, c, d):
 
@@ -65,9 +58,6 @@ class Solution:
 
             return ans
 
-        # -------------------------------------------------
-        # 4. Is num itself already valid?
-        # -------------------------------------------------
         if "0" not in num:
 
             have = [0, 0, 0, 0]
@@ -83,9 +73,6 @@ class Solution:
 
         n = len(num)
 
-        # -------------------------------------------------
-        # 5. Build smallest suffix of exact length
-        # -------------------------------------------------
         def build_smallest(length, req):
 
             ans = []
@@ -112,11 +99,6 @@ class Solution:
 
             return "".join(ans)
 
-        # -------------------------------------------------
-        # 6. Try to make same-length number slightly bigger
-        # -------------------------------------------------
-
-        # Factor counts of the whole num
         total = [0, 0, 0, 0]
 
         for ch in num:
@@ -125,16 +107,14 @@ class Solution:
             for j in range(4):
                 total[j] += f[j]
 
-        # Number of zeros in prefix
+        
         zero_count = num.count("0")
 
-        # We move from right -> left
         for i in range(n - 1, -1, -1):
 
             current_digit = int(num[i])
 
-            # Remove current digit.
-            # Now total represents factors of num[:i]
+            
             f = digit_factor[current_digit]
 
             for j in range(4):
@@ -163,7 +143,7 @@ class Solution:
 
                 remaining = n - i - 1
 
-                # Can remaining positions satisfy the factors?
+               
                 if min_digits(*req) <= remaining:
 
                     suffix = build_smallest(
@@ -173,10 +153,6 @@ class Solution:
 
                     return prefix + str(digit) + suffix
 
-        # -------------------------------------------------
-        # 7. Same length impossible
-        #    Try a longer number
-        # -------------------------------------------------
 
         minimum_length = min_digits(*need)
 
