@@ -12,8 +12,9 @@ class Solution:
                 return suffix[i]
             best = 0
             for x in range (1,min(2*M,n-i)+1):
-                new_M = max(M,x)
-                current=suffix[i]-dfs(i+x,new_M)
-                best=max(best,current)
+                new_M=max(M,x)
+                current = suffix[i] - dfs(i+x,new_M)
+                best = max(best,current)
             return best
-        return dfs (0,1)
+        return dfs(0,1)
+        
