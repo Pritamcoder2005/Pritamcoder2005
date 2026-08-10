@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0009-palindrome-number) |
 | [0486-predict-the-winner](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0877-stone-game) |
