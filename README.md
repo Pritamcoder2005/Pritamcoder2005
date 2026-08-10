@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 | [0027-remove-element](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0169-majority-element) |
 | [0486-predict-the-winner](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0877-stone-game) |
@@ -49,6 +50,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -70,6 +72,7 @@ Here are some ideas to get you started:
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -77,6 +80,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/3731-find-missing-elements) |
@@ -168,4 +172,12 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/1510-stone-game-iv) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
