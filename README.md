@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 | [0027-remove-element](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0169-majority-element) |
 | [0486-predict-the-winner](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0628-maximum-product-of-three-numbers) |
@@ -103,6 +104,7 @@ Here are some ideas to get you started:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/1140-stone-game-ii) |
