@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 | [0088-merge-sorted-array](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0877-stone-game) |
@@ -41,6 +42,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0007-reverse-integer](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0877-stone-game) |
@@ -160,6 +162,7 @@ Here are some ideas to get you started:
 | [0027-remove-element](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0189-rotate-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
 |  |
