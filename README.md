@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 | [0001-two-sum](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0027-remove-element) |
+| [0055-jump-game](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -118,6 +119,7 @@ Here are some ideas to get you started:
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1927-sum-game](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/2029-stone-game-ix) |
@@ -128,6 +130,7 @@ Here are some ideas to get you started:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0486-predict-the-winner](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0486-predict-the-winner) |
