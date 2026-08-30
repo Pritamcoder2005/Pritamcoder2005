@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0274-h-index) |
 | [0486-predict-the-winner](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0877-stone-game) |
@@ -70,6 +71,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -96,6 +98,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0274-h-index) |
 | [2029-stone-game-ix](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/3517-smallest-palindromic-rearrangement-i) |
