@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0007-reverse-integer](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0628-maximum-product-of-three-numbers) |
@@ -85,6 +86,7 @@ Here are some ideas to get you started:
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0013-roman-to-integer) |
 | [1927-sum-game](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -107,6 +109,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0169-majority-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
