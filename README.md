@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0274-h-index) |
 | [0486-predict-the-winner](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0628-maximum-product-of-three-numbers) |
@@ -212,6 +213,7 @@ Here are some ideas to get you started:
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/1140-stone-game-ii) |
 ## Nim Game
 |  |
