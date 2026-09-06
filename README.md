@@ -91,6 +91,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0012-integer-to-roman](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0058-length-of-last-word) |
 | [1927-sum-game](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
