@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0045-jump-game-ii) |
@@ -91,6 +92,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0012-integer-to-roman](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0058-length-of-last-word) |
 | [1927-sum-game](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -259,4 +261,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Pritamcoder2005/Pritamcoder2005/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
